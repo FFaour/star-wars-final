@@ -1,7 +1,7 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Helps find statistics on Star Wars Characters",
   "main": "server.js",
   "dependencies": {
     "express": "^4.16.4"
